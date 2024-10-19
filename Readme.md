@@ -1,7 +1,8 @@
 # Личный проект «Кекстаграм»
 
-* Студент: [Ildar Gnn](https://up.htmlacademy.ru/javascript/33/user/228365).
-* Наставник: `Неизвестно`.
+* Студент: [Ildar Gnn](https://htmlacademy.ru/profile/ildar-gn).
+* Наставник: [(=^_^=)](https://htmlacademy.ru/upload/images/sources/20241019_625195c2.png).
+* Сайт: [KEKSTAGRAM](https://ildar-gn.github.io/228365-kekstagram-33).
 
 ---
 
